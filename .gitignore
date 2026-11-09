@@ -1,0 +1,9 @@
+.pixi/
+__pycache__/
+*.py[cod]
+.DS_Store
+.marimo/
+__marimo__/
+results/live/
+results/demo/
+results/prototype.html

@@ -1,0 +1,18 @@
+test_01_rule_reproduces_worked_example_decision_and_measures (test_routing.RoutingTests.test_01_rule_reproduces_worked_example_decision_and_measures) ... ok
+test_02_edge_case_reports_no_feasible_decision_and_no_stale_file (test_routing.RoutingTests.test_02_edge_case_reports_no_feasible_decision_and_no_stale_file) ... ok
+test_03_missing_required_column_rejected_with_file_and_column (test_routing.RoutingTests.test_03_missing_required_column_rejected_with_file_and_column) ... ok
+test_checker_catches_missing_duplicate_and_forged_times (test_routing.RoutingTests.test_checker_catches_missing_duplicate_and_forged_times) ... ok
+test_fractional_integer_is_rejected (test_routing.RoutingTests.test_fractional_integer_is_rejected) ... ok
+test_improvement_is_feasible_no_worse_and_reproducible (test_routing.RoutingTests.test_improvement_is_feasible_no_worse_and_reproducible) ... ok
+test_missing_file_rejected (test_routing.RoutingTests.test_missing_file_rejected) ... ok
+test_missing_value_and_unknown_reference_rejected (test_routing.RoutingTests.test_missing_value_and_unknown_reference_rejected) ... ok
+test_renamed_identifiers_and_fresh_path_work_without_edits (test_routing.RoutingTests.test_renamed_identifiers_and_fresh_path_work_without_edits) ... ok
+test_row_order_does_not_change_decision (test_routing.RoutingTests.test_row_order_does_not_change_decision) ... ok
+test_search_count_limit_retains_feasible_incumbent (test_routing.RoutingTests.test_search_count_limit_retains_feasible_incumbent) ... ok
+test_service_start_at_window_end_and_finish_after_end_are_allowed (test_routing.RoutingTests.test_service_start_at_window_end_and_finish_after_end_are_allowed) ... ok
+test_zero_service_duration_rejected (test_routing.RoutingTests.test_zero_service_duration_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.044s
+
+OK

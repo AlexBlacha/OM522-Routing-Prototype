@@ -1,0 +1,42 @@
+{
+  "routes": [
+    {
+      "vehicle_id": "V01",
+      "visits": [
+        "C003",
+        "C002",
+        "C004"
+      ],
+      "arrivals": [
+        28.324,
+        102.987,
+        199.686
+      ],
+      "service_starts": [
+        67,
+        131,
+        303
+      ],
+      "return_time": 361.875
+    },
+    {
+      "vehicle_id": "V02",
+      "visits": [
+        "C001",
+        "C005",
+        "C006"
+      ],
+      "arrivals": [
+        31.547,
+        94.595,
+        234.881
+      ],
+      "service_starts": [
+        34,
+        155,
+        234.881
+      ],
+      "return_time": 289.403
+    }
+  ]
+}

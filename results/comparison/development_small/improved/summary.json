@@ -1,0 +1,23 @@
+{
+  "method": "improved",
+  "instance": "development_small",
+  "status": "feasible",
+  "reason": "Retained a feasible plan after 10 improving moves.",
+  "computation_seconds": 0.00530391582287848,
+  "runtime_definition": "route construction plus improvement; excludes input loading, export and independent checking",
+  "max_evaluations": 30000,
+  "time_limit_seconds": 480.0,
+  "evaluations": 1445,
+  "accepted_moves": 10,
+  "stop_reason": "no_improving_relocate_or_exchange",
+  "randomization": "none",
+  "metrics": {
+    "total_travel_time": 491.661,
+    "vehicles_used": 5,
+    "waiting_time": 1037.629,
+    "service_time": 174.0,
+    "customers_served": 15
+  },
+  "independent_check": "PASS",
+  "total_elapsed_seconds": 0.009116166969761252
+}

@@ -1,0 +1,13 @@
+{
+  "option_number": 3,
+  "option_name": "capacitated_vehicle_routing_time_windows",
+  "profile": "development_medium",
+  "base_seed": 522524,
+  "instance_seed": 562561,
+  "size_parameter": 45,
+  "expected_condition": "feasible",
+  "schema_version": 4,
+  "time_unit": "minutes",
+  "condition_detail": "capacity and service-start windows spread across the shift",
+  "source": "synthetic instructor-generated data"
+}

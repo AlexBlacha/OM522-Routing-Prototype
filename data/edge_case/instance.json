@@ -1,0 +1,13 @@
+{
+  "option_number": 3,
+  "option_name": "capacitated_vehicle_routing_time_windows",
+  "profile": "edge_case",
+  "base_seed": 522524,
+  "instance_seed": 562595,
+  "size_parameter": 10,
+  "expected_condition": "intentional_edge_or_infeasible",
+  "schema_version": 4,
+  "time_unit": "minutes",
+  "condition_detail": "infeasible customer whose demand exceeds vehicle capacity",
+  "source": "synthetic instructor-generated data"
+}

@@ -1,0 +1,2 @@
+Exploratory loader accepted fractional demand: 7.5 (float)
+Revised loader rejected the same value: customers.csv, column 'demand', row 2: expected integer, received '7.5'

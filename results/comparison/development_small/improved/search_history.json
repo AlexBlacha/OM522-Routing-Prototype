@@ -1,0 +1,62 @@
+[
+  {
+    "move": "relocate C003: V01 -> V05, position 3",
+    "travel_before": 620.581,
+    "travel_after": 615.0160000000001,
+    "saving": 5.564999999999941
+  },
+  {
+    "move": "relocate C014: V01 -> V01, position 3",
+    "travel_before": 615.0160000000001,
+    "travel_after": 609.498,
+    "saving": 5.517999999999972
+  },
+  {
+    "move": "relocate C009: V01 -> V02, position 6",
+    "travel_before": 609.498,
+    "travel_after": 598.8910000000001,
+    "saving": 10.607
+  },
+  {
+    "move": "relocate C014: V01 -> V03, position 3",
+    "travel_before": 598.8910000000001,
+    "travel_after": 593.1840000000001,
+    "saving": 5.707000000000022
+  },
+  {
+    "move": "relocate C004: V02 -> V03, position 3",
+    "travel_before": 593.1840000000001,
+    "travel_after": 589.82,
+    "saving": 3.3640000000000327
+  },
+  {
+    "move": "relocate C004: V03 -> V04, position 3",
+    "travel_before": 589.82,
+    "travel_after": 565.527,
+    "saving": 24.293000000000006
+  },
+  {
+    "move": "relocate C014: V03 -> V02, position 5",
+    "travel_before": 565.527,
+    "travel_after": 560.5820000000001,
+    "saving": 4.944999999999993
+  },
+  {
+    "move": "relocate C014: V02 -> V02, position 6",
+    "travel_before": 560.5820000000001,
+    "travel_after": 537.1180000000002,
+    "saving": 23.46399999999997
+  },
+  {
+    "move": "relocate C014: V02 -> V04, position 4",
+    "travel_before": 537.1180000000002,
+    "travel_after": 526.7260000000001,
+    "saving": 10.391999999999996
+  },
+  {
+    "move": "relocate C008: V05 -> V03, position 1",
+    "travel_before": 526.7260000000001,
+    "travel_after": 491.6610000000001,
+    "saving": 35.065
+  }
+]

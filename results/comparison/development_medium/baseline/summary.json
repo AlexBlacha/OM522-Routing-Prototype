@@ -1,0 +1,23 @@
+{
+  "method": "baseline",
+  "instance": "development_medium",
+  "status": "feasible",
+  "reason": "Every customer assigned by the published rule.",
+  "computation_seconds": 0.00044183293357491493,
+  "runtime_definition": "route construction plus improvement; excludes input loading, export and independent checking",
+  "max_evaluations": null,
+  "time_limit_seconds": 480.0,
+  "evaluations": 0,
+  "accepted_moves": 0,
+  "stop_reason": "construction_complete",
+  "randomization": "none",
+  "metrics": {
+    "total_travel_time": 1683.397,
+    "vehicles_used": 11,
+    "waiting_time": 2199.093,
+    "service_time": 550.0,
+    "customers_served": 45
+  },
+  "independent_check": "PASS",
+  "total_elapsed_seconds": 0.011572124902158976
+}

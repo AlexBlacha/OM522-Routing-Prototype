@@ -1,0 +1,150 @@
+{
+  "source_archive": "option_03_capacitated_vehicle_routing_time_windows.zip",
+  "all_original_package_files_unchanged": true,
+  "files": [
+    {
+      "path": "data/DATA_DICTIONARY.md",
+      "sha256": "37ca2963a1ff9fb3cef8e92b977d2a820c6ef1e69febc6d5cc65d8331e595723"
+    },
+    {
+      "path": "data/README.md",
+      "sha256": "9b38b7ced452f8e8c3b22ee128edc4b4b3a6bdb6bf4a15779127413d57d52f61"
+    },
+    {
+      "path": "data/development_large/customers.csv",
+      "sha256": "42c74992078f85e2bef9080f1fa0157d97fba7a670393a8d2587f4bf57456571"
+    },
+    {
+      "path": "data/development_large/depots.csv",
+      "sha256": "e509940fe1395737ff0f3f2c347810b6144e9596f967da6cfe7f2b3f63529afd"
+    },
+    {
+      "path": "data/development_large/instance.json",
+      "sha256": "0de1b4384e0800cfedccb87d4487ca86c09fb652e01ca410c56e45885f41ce31"
+    },
+    {
+      "path": "data/development_large/schema.json",
+      "sha256": "e6f65731b686e1485c47b6540977495cd908a41c20ebe18cbe0b25e6cc9441cd"
+    },
+    {
+      "path": "data/development_large/travel_times.csv",
+      "sha256": "31edc88c723ecba951e847f95e7499e07c168c1617ba63fab10fc9cdaa2885b8"
+    },
+    {
+      "path": "data/development_large/vehicles.csv",
+      "sha256": "c3f5ed22e6a093ecd1ddd229bc0ba9377c46ed0451226203e40133c69ab7e247"
+    },
+    {
+      "path": "data/development_medium/customers.csv",
+      "sha256": "f83b0021948d868a1a19f419946f38a946731f68be7d8e5e023c57cd5e0c293e"
+    },
+    {
+      "path": "data/development_medium/depots.csv",
+      "sha256": "e509940fe1395737ff0f3f2c347810b6144e9596f967da6cfe7f2b3f63529afd"
+    },
+    {
+      "path": "data/development_medium/instance.json",
+      "sha256": "eb59b68ffa38ede3ccae37a2b605d48fcfecfd5946b891c032ae310436d609c9"
+    },
+    {
+      "path": "data/development_medium/schema.json",
+      "sha256": "6499a84c69a76d97aa59435c8d7946c4650b4cf684237c59a9f5ede4ab622f2e"
+    },
+    {
+      "path": "data/development_medium/travel_times.csv",
+      "sha256": "5d3407b732fb6ae51433f272bcba61d72f7674fcba4ab91dc50e7ade19a77820"
+    },
+    {
+      "path": "data/development_medium/vehicles.csv",
+      "sha256": "c99f98184855fa1ada831af87c5679e49b0b6fb799e73568107b26e25f3d6fc7"
+    },
+    {
+      "path": "data/development_small/customers.csv",
+      "sha256": "5e925f78e3b120cabb576c65047093117e8f8a3a6379ab65c508bbadee6d78a9"
+    },
+    {
+      "path": "data/development_small/depots.csv",
+      "sha256": "e509940fe1395737ff0f3f2c347810b6144e9596f967da6cfe7f2b3f63529afd"
+    },
+    {
+      "path": "data/development_small/instance.json",
+      "sha256": "da6f10da3f42a5228cff5d09da2db3238cb86c9984b92b78d07919a079e113fa"
+    },
+    {
+      "path": "data/development_small/schema.json",
+      "sha256": "3612efa7682c3b1db20eb31b4727062b4ef725f8cd99f67072e20caf4f67750c"
+    },
+    {
+      "path": "data/development_small/travel_times.csv",
+      "sha256": "7d0389eaee7bf9ea1eb34b88885e3eab0f64b6b00586e2083e3cd20f85f9bca6"
+    },
+    {
+      "path": "data/development_small/vehicles.csv",
+      "sha256": "5f69742cba0af62262673dde0c8a0ef23b491571a4b0b17c543794f66b2bc35f"
+    },
+    {
+      "path": "data/edge_case/customers.csv",
+      "sha256": "ba80ffcc2cb11c0731f88100726a5830e5010eb534d8e30f82a889ae1960af1e"
+    },
+    {
+      "path": "data/edge_case/depots.csv",
+      "sha256": "e509940fe1395737ff0f3f2c347810b6144e9596f967da6cfe7f2b3f63529afd"
+    },
+    {
+      "path": "data/edge_case/instance.json",
+      "sha256": "323adc38ed14581a3d7ccba9e567671bd0ca2c4892ba6a4fa6f516f34af67847"
+    },
+    {
+      "path": "data/edge_case/schema.json",
+      "sha256": "a559c0ccf0d2fd06892e6e6dc2a65445836dccc9bc6ef7cc3422ca9094aecee2"
+    },
+    {
+      "path": "data/edge_case/travel_times.csv",
+      "sha256": "7e8b7e6104f32db35e78deba6cc1596a83d11195fa5cc9ac414772a5e3b60b2a"
+    },
+    {
+      "path": "data/edge_case/vehicles.csv",
+      "sha256": "d2da76fbfd1f2a708dfe0d542c25ff22af8f48fb0868aa8b8cd485c0185d8d8b"
+    },
+    {
+      "path": "data/hand_checkable/customers.csv",
+      "sha256": "6f2ae3f305d3b4dc9f7197d1d569c6cababb4e7ba250f255109e726cf2c85af8"
+    },
+    {
+      "path": "data/hand_checkable/depots.csv",
+      "sha256": "e509940fe1395737ff0f3f2c347810b6144e9596f967da6cfe7f2b3f63529afd"
+    },
+    {
+      "path": "data/hand_checkable/instance.json",
+      "sha256": "4e3572303b302af75e1432609549984ce41cecbabeee2969be120a14118160a6"
+    },
+    {
+      "path": "data/hand_checkable/schema.json",
+      "sha256": "97d90e738ac44b51fb1c4e6e689b40072aebb8b10abd8e841a6205c31d32ee87"
+    },
+    {
+      "path": "data/hand_checkable/travel_times.csv",
+      "sha256": "a0bcd18dcb8b58db187e4b8f4d84d338c19581bcf0b4beae51dba703f0024367"
+    },
+    {
+      "path": "data/hand_checkable/vehicles.csv",
+      "sha256": "d2da76fbfd1f2a708dfe0d542c25ff22af8f48fb0868aa8b8cd485c0185d8d8b"
+    },
+    {
+      "path": "data/option-3-brief.pdf",
+      "sha256": "37d3ae4901464f8015a271070f3bd3712047bfd3151ee19e82a3b06ccfbac85d"
+    },
+    {
+      "path": "data/worked-example/README.md",
+      "sha256": "237c70aa4394379b53b43008f7fa62c0d9e300c06bca752d9cfe800cf0ed0670"
+    },
+    {
+      "path": "data/worked-example/metrics.json",
+      "sha256": "f01044ed938ad78404dcc72da89069403dc1877e9332845849eac8d37a1be5fb"
+    },
+    {
+      "path": "data/worked-example/solution.json",
+      "sha256": "ae535f2c0cd38aef118da0e10c2ff5e8db61c16939dfc09a6f7141d03f437c23"
+    }
+  ]
+}

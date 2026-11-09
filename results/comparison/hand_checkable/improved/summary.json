@@ -1,0 +1,23 @@
+{
+  "method": "improved",
+  "instance": "hand_checkable",
+  "status": "feasible",
+  "reason": "Retained a feasible plan after 0 improving moves.",
+  "computation_seconds": 0.00025137513875961304,
+  "runtime_definition": "route construction plus improvement; excludes input loading, export and independent checking",
+  "max_evaluations": 30000,
+  "time_limit_seconds": 480.0,
+  "evaluations": 57,
+  "accepted_moves": 0,
+  "stop_reason": "no_improving_relocate_or_exchange",
+  "randomization": "none",
+  "metrics": {
+    "total_travel_time": 352.417,
+    "vehicles_used": 2,
+    "waiting_time": 232.861,
+    "service_time": 66.0,
+    "customers_served": 6
+  },
+  "independent_check": "PASS",
+  "total_elapsed_seconds": 0.0029356670565903187
+}

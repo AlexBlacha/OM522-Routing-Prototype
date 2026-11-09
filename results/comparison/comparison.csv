@@ -1,0 +1,9 @@
+instance,method,feasible,total_travel_time,vehicles_used,waiting_time,customers_served,computation_seconds,evaluations,accepted_moves,stop_reason
+hand_checkable,baseline,True,352.417,2,232.861,6,2.5791814550757408e-05,0,0,construction_complete
+hand_checkable,improved,True,352.417,2,232.861,6,0.00025137513875961304,57,0,no_improving_relocate_or_exchange
+development_small,baseline,True,620.581,5,845.804,15,7.19169620424509e-05,0,0,construction_complete
+development_small,improved,True,491.661,5,1037.629,15,0.00530391582287848,1445,10,no_improving_relocate_or_exchange
+development_medium,baseline,True,1683.397,11,2199.093,45,0.00044183293357491493,0,0,construction_complete
+development_medium,improved,True,1167.546,8,2050.234,45,0.1051701249089092,30000,55,evaluation_limit
+development_large,baseline,True,3523.223,25,5831.634,120,0.0031775839161127806,0,0,construction_complete
+development_large,improved,True,3200.921,23,5777.549,120,0.10550983296707273,30000,37,evaluation_limit

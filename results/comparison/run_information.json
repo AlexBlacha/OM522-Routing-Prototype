@@ -1,0 +1,13 @@
+{
+  "computer": {
+    "system": "Darwin",
+    "release": "24.6.0",
+    "machine": "arm64",
+    "python": "3.12.16",
+    "processor": "arm"
+  },
+  "max_evaluations": 30000,
+  "time_limit_seconds": 480.0,
+  "randomization": "none; sorted identifiers and fixed first-improvement order",
+  "runtime_definition": "construction plus improvement, independently timed for each method"
+}

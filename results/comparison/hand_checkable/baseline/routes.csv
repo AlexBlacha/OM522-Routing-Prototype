@@ -1,0 +1,3 @@
+vehicle_id,visits,load,capacity,shift_start,return_time,shift_end,return_margin,travel_time,waiting_time
+V01,C003 -> C002 -> C004,40,60,0,361.875,600,238.125,150.872,170.003
+V02,C001 -> C005 -> C006,32,60,0,289.403,600,310.597,201.545,62.858000000000004
